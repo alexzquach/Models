@@ -5,3 +5,19 @@ I hope my hobby can make myself and someone out there rich one day.
 I’m The Eldest Boy - K.R
 
 These models and any comments made in the models are not financial advice.
+
+### Up-to-date List
+
+- [ ] AI and Semiconductors
+- [ ] Biotech
+- [ ] Emerging Tech
+- [ ] FinTech
+- [ ] Footwear
+- [ ] General Retail
+- [ ] Growth
+- [x] Health Insurance
+- [ ] Mid Tier Luxury
+- [ ] Real Estate
+- [ ] Retail Brands
+- [ ] Speculative
+- [x] Traditional Finance
