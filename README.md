@@ -4,8 +4,6 @@ I hope my hobby can make myself and someone out there rich one day.
 
 I’m The Eldest Boy - K.R
 
-These models and any comments made in the models are not financial advice.
-
 ### Up-to-date List
 
 - [ ] AI and Semiconductors
@@ -21,3 +19,6 @@ These models and any comments made in the models are not financial advice.
 - [ ] Retail Brands
 - [ ] Speculative
 - [x] Traditional Finance
+
+
+These models and any comments made in the models or on my github are not financial advice.  Do your own research.
