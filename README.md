@@ -8,8 +8,8 @@ I’m The Eldest Boy - K.R
 
 - [ ] AI and Semiconductors
 - [ ] Biotech
-- [ ] Emerging Tech
-- [ ] FinTech
+- [x] Emerging Tech
+- [x] FinTech
 - [ ] Footwear
 - [ ] General Retail
 - [ ] Growth
