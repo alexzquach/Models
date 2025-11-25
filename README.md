@@ -6,7 +6,7 @@ I’m The Eldest Boy - K.R
 
 ### Up-to-date List
 
-- [ ] AI and Semiconductors
+- [x] AI and Semiconductors
 - [ ] Biotech
 - [x] Emerging Tech
 - [x] FinTech
