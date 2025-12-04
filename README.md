@@ -6,8 +6,8 @@ I’m The Eldest Boy - K.R
 
 ### Up-to-date List
 
-- [ ] AI and Semiconductors
-- [ ] Biotech
+- [x] AI and Semiconductors
+- [ ] ~~Biotech~~ (Only SRPT in there, not covering)
 - [x] Emerging Tech
 - [x] FinTech
 - [ ] Footwear
@@ -17,7 +17,7 @@ I’m The Eldest Boy - K.R
 - [ ] Mid Tier Luxury
 - [ ] Real Estate
 - [ ] Retail Brands
-- [ ] Speculative
+- [ ] ~~Speculative~~ (Only ACB in here, not covering)
 - [x] Traditional Finance
 
 
