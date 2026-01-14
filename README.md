@@ -12,10 +12,10 @@ I’m The Eldest Boy - K.R
 - [x] FinTech
 - [ ] Footwear
 - [ ] General Retail
-- [ ] Growth
+- [x] Growth
 - [x] Health Insurance
 - [ ] Mid Tier Luxury
-- [ ] Real Estate
+- [x] Real Estate
 - [ ] Retail Brands
 - [ ] ~~Speculative~~ (Only ACB in here, not covering)
 - [x] Traditional Finance
